@@ -1,4 +1,4 @@
-# Progrmming in BAM
+# Programming for BAM
 
 *** Welcome to the programming part of the course Basics in Applied Matheamtics! ***
 
