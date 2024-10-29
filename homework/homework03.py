@@ -14,10 +14,11 @@ def first_entree_time_of_rolling_six():
     """
     # Counter for execution of line 3 of the algorithm
     counter = 0
+    X = None
     ### YOUR CODE HERE ###
     ...
     ### END OF YOUR CODE ###  
-    print(f"Counted execusions: {counter}")      
+    print(f"Counted executions: {counter}")      
     return X
 
 def simulate_n_draws(n):
@@ -30,7 +31,7 @@ def simulate_n_draws(n):
     Returns:
         list: A list containing the results of the n iid draws.
     """
-    results = []
+    results = None
     ### YOUR CODE HERE ###
     ...
     ### END OF YOUR CODE ### 
